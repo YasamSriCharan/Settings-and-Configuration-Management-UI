@@ -1,8 +1,8 @@
 import { useState } from "react";
 
 export default function AccountSettings() {
-  const [name, setName] = useState("John Doe");
-  const [email, setEmail] = useState("john@example.com");
+  const [name, setName] = useState("Charan");
+  const [email, setEmail] = useState("charan@example.com");
 
   return (
     <div className="page">
